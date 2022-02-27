@@ -1,6 +1,6 @@
 # Umbraco-v7-Upgrader
 
-Use this repo to upgrade an Umbraco v7 database to v9 latest.
+Use this repo to upgrade an Umbraco v7 database to v9.
 
 ## Notes
 
