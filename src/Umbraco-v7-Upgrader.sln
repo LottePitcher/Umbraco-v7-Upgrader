@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{E35ED8FC-1A46-4110-875D-60B59D8A9D10}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco-v7-15-7", "Umbraco-v7-15-7\Umbraco-v7-15-7.csproj", "{B3576EB0-34C0-4799-8B3A-405B8AA6003B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3576EB0-34C0-4799-8B3A-405B8AA6003B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3576EB0-34C0-4799-8B3A-405B8AA6003B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3576EB0-34C0-4799-8B3A-405B8AA6003B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3576EB0-34C0-4799-8B3A-405B8AA6003B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7186ED2A-5C14-4BF8-AB19-789A94B1AE80}
+	EndGlobalSection
+EndGlobal
