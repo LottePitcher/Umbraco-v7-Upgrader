@@ -56,7 +56,7 @@ Steps to follow:
 
 - Backoffice > Settings > Document Types
 
-   - Check that all the nested content document types are flagged in 'Permissions' as 'Is Element Type'
+   - Check that all the nested content document types are flagged in 'Permissions' as 'Is an Element Type' (if not, update them and Save)
 
 ### Step 3: Upgrade to v9.2
 
